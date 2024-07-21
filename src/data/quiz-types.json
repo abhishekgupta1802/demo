@@ -1,0 +1,105 @@
+{
+    "quizTypes": [
+      {
+        "id": 1,
+        "name": "Multiple Choice Questions (Single correct answer)",
+        "slug": "mcq-single-correct"
+      },
+      {
+        "id": 2,
+        "name": "Multiple Choice Questions (Multiple correct answers)",
+        "slug": "mcq-multiple-correct"
+      },
+      {
+        "id": 3,
+        "name": "True/False Questions",
+        "slug": "true-false"
+      },
+      {
+        "id": 4,
+        "name": "Fill in the Blanks",
+        "slug": "fill-in-the-blanks"
+      },
+      {
+        "id": 5,
+        "name": "Short Answer Questions",
+        "slug": "short-answer"
+      },
+      {
+        "id": 6,
+        "name": "Matching Questions (Match pairs)",
+        "slug": "matching-pairs"
+      },
+      {
+        "id": 7,
+        "name": "Matching Questions (Drag and drop)",
+        "slug": "matching-drag-drop"
+      },
+      {
+        "id": 8,
+        "name": "Ordering Questions (Sequence the steps)",
+        "slug": "ordering-sequence-steps"
+      },
+      {
+        "id": 9,
+        "name": "Ordering Questions (Arrange in order)",
+        "slug": "ordering-arrange-order"
+      },
+      {
+        "id": 10,
+        "name": "Essay Questions",
+        "slug": "essay"
+      },
+      {
+        "id": 11,
+        "name": "Image-Based Questions (Identify parts of an image)",
+        "slug": "image-identify-parts"
+      },
+      {
+        "id": 12,
+        "name": "Image-Based Questions (Describe an image)",
+        "slug": "image-describe"
+      },
+      {
+        "id": 13,
+        "name": "Audio/Video-Based Questions (Answer based on audio clip)",
+        "slug": "audio-answer"
+      },
+      {
+        "id": 14,
+        "name": "Audio/Video-Based Questions (Answer based on video clip)",
+        "slug": "video-answer"
+      },
+      {
+        "id": 15,
+        "name": "Case Study Questions (Scenario-based)",
+        "slug": "case-study-scenario"
+      },
+      {
+        "id": 16,
+        "name": "Case Study Questions (Data interpretation)",
+        "slug": "case-study-data"
+      },
+      {
+        "id": 17,
+        "name": "Practical Coding Questions (Code completion)",
+        "slug": "coding-completion"
+      },
+      {
+        "id": 18,
+        "name": "Practical Coding Questions (Debugging)",
+        "slug": "coding-debugging"
+      },
+      {
+        "id": 19,
+        "name": "Interactive Simulations (Virtual labs)",
+        "slug": "simulations-virtual-labs"
+      },
+      {
+        "id": 20,
+        "name": "Interactive Simulations (Simulated environments)",
+        "slug": "simulations-environments"
+      }
+    ]
+  }
+  

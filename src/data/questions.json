@@ -1,0 +1,80 @@
+{
+  "quizzes": [
+    {
+      "id": "1",
+      "title": "Mock Test 1",
+      "questions": [
+        {
+          "id": 1,
+          "text": "What is 2 + 2?",
+          "options": ["3", "4", "5"],
+          "answer": "4",
+          "quizType": "mcq-single-correct",
+          "positivePoint": 1,
+          "negativePoint": 0
+        },
+        {
+          "id": 2,
+          "text": "What is the capital of France?",
+          "options": ["London", "Berlin", "Paris"],
+          "answer": "Paris",
+          "quizType": "mcq-single-correct",
+          "positivePoint": 1,
+          "negativePoint": 0
+        },
+        {
+          "id": 3,
+          "text": "Select all prime numbers.",
+          "options": ["2", "3", "4", "6"],
+          "answer": ["2", "3"],
+          "quizType": "mcq-multiple-correct",
+          "positivePoint": 2,
+          "negativePoint": -1
+        },
+        {
+          "id": 4,
+          "text": "Which of the following are programming languages?",
+          "options": ["Python", "HTML", "CSS", "JavaScript"],
+          "answer": ["Python", "JavaScript"],
+          "quizType": "mcq-multiple-correct",
+          "positivePoint": 2,
+          "negativePoint": -1
+        },
+        {
+          "id": 5,
+          "text": "The sky is blue.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "quizType": "true-false",
+          "positivePoint": 1,
+          "negativePoint": 0
+        },
+        {
+          "id": 6,
+          "text": "Humans can breathe underwater without any equipment.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "quizType": "true-false",
+          "positivePoint": 1,
+          "negativePoint": 0
+        },
+        {
+          "id": 7,
+          "text": "____ is the largest planet in our solar system.",
+          "answer": "Jupiter",
+          "quizType": "fill-in-the-blanks",
+          "positivePoint": 1,
+          "negativePoint": 0
+        },
+        {
+          "id": 8,
+          "text": "The chemical symbol for water is __.",
+          "answer": "H2O",
+          "quizType": "fill-in-the-blanks",
+          "positivePoint": 1,
+          "negativePoint": 0
+        }
+      ]
+    }
+  ]
+}
